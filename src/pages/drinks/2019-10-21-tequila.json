@@ -1,0 +1,12 @@
+{
+  "templateKey": "drink-post",
+  "title": "Tequila",
+  "date": "2019-10-21T21:52:48.297Z",
+  "description": "New testing",
+  "featuredpost": true,
+  "featuredimage": "/img/products-grid3.jpg",
+  "body": "This is tequila",
+  "tags": [
+    "tequila"
+  ]
+}
