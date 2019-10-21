@@ -1,0 +1,12 @@
+{
+  "templateKey": "blog-post",
+  "title": "Tequila",
+  "date": "2019-10-21T21:16:03.227Z",
+  "description": "TEsting",
+  "featuredpost": true,
+  "featuredimage": "/img/blog-index.jpg",
+  "body": "This is a good drink",
+  "tags": [
+    "Yes"
+  ]
+}
