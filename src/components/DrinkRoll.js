@@ -7,8 +7,6 @@ class DrinkRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-
-    console.log(posts);
     
 
     return (
@@ -50,7 +48,7 @@ class DrinkRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Seep Reading →
+                    Check recipe →
                   </Link>
                 </p>
               </article>
