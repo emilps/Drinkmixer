@@ -5,7 +5,7 @@
   "description": "TEsting",
   "featuredpost": true,
   "featuredimage": "/img/blog-index.jpg",
-  "body": "This is a good drink",
+  "body": "![Tequila yes](/img/products-full-width.jpg \"This is tequila\")\n\n\n\nThis is a good drink",
   "tags": [
     "Yes"
   ]
