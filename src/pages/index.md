@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Your partner for mass & heat transfer technology
+title: Your partner for mass & heat transfer technologies
 image: /img/home-jumbotron.jpg
 heading: Your partner for mass & heat transfer technology
 subheading: Water treatment & Protein recycling
